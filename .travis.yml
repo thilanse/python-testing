@@ -3,4 +3,4 @@ python:
   - "2.7"
   - "3.7"
 script:
-  - python -m unittest discover
+  - python -m unittest discover -v

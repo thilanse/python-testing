@@ -14,7 +14,7 @@ class TestSum(unittest.TestCase):
         list_of_int = [1, 2, 3]
         result = sum(list_of_int)
 
-        self.assertEqual(result, 5)
+        self.assertEqual(result, 6)
 
     def test_sum_list_fraction(self):
         """
